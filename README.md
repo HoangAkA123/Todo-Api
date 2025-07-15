@@ -1,4 +1,4 @@
 # Todo-Api
 ```
-npm run dev
+npm run start
 ```
